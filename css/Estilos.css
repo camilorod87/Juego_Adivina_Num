@@ -1,0 +1,66 @@
+body 
+{
+
+	background-color:green; 
+}
+
+header{
+	background: yellow;
+	border: 4px solid green;
+	border-radius: 30px 30px 30px 30px;
+	box-shadow: inset 0px 0px 30px green, 10px 10px 20px green;
+	color: green;
+	margin: 10px auto;
+	padding: 20px;
+	text-align: center;
+	width: 200px;	
+}
+h1
+{
+
+	background-color: yellow;
+	color: green;
+}
+
+
+.screen {
+	height: 60px;
+	width: 250px;
+	padding: 0 10px;
+	background: rgba(0, 0, 0, 0.2);
+	border-radius: 10px;
+	box-shadow: inset 0px 4px rgba(0, 0, 0, 0.2);
+	font-size: 24px;
+	line-height: 40px;
+	color: white;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+	text-align: center;
+	letter-spacing: 1px;
+}
+input
+{
+
+	border: 2px solid gray;
+	border-radius: 5px;k
+	box-shadow: 1px 1px 10px rgba(0,0,0,0.65);
+	color: #f4f4f4;
+	color:black;
+	font: bold 18px "Myriad Pro", "Lucida Grande", Helvetica, Arial, sans-serif;
+	padding: 5px 15px;
+	text-decoration: none;
+	text-shadow: 3px 3px 10px white; 
+		text-align: center;
+}
+
+.blue{
+	background: #64FE2E;
+}
+.blue:hover{
+	background: #C8FE2E;
+}
+.red{
+	background: #b80202;
+}
+.red:hover{
+	background: #e40606;
+}
